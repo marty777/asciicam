@@ -3,7 +3,7 @@ Processing 2 sketch that takes webcam input and performs a bitmap -> ascii conve
 
 ## Sample image output
 
-![alt text](https://github.com/marty777/asciicam/raw/master/example.png "Logo Title Text 1")
+![alt text](https://github.com/marty777/asciicam/raw/master/example.png "Sample image output")
 
 ## Sample text output
 
