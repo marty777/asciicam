@@ -1,7 +1,11 @@
 # asciicam
 Processing 2 sketch that takes webcam input and performs a bitmap -> ascii conversion
 
+Sample image output
+
 ![alt text](https://github.com/marty777/asciicam/raw/master/example.png "Logo Title Text 1")
+
+Sample text output
 
 ```-----------------------------------------------------================================+++++++++++++++++++++++%%%%%%%%%+++++++++++
 --------------------------------------------------------=================================++++++++++++++++++++%%%%%%+++++++++++++
